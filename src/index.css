@@ -1,0 +1,71 @@
+.app-container {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 500px;
+    border: 2px solid black;
+    width:450px;
+    height: auto;
+    background-color: hsl(0, 0%, 90%);
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    display: inline-block;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+    
+}
+
+.app-container h2 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.input-field {
+    width: 300px;
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 30px;
+    border: none;
+    border-radius: 4px;
+    border-color: antiquewhite;
+}
+
+.add-btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.11em;
+    border: none;
+    height: 30px;
+    width: 60px;
+    background-color: hsl(100, 100%, 100%);;
+    border-radius: 4px;
+}
+
+ul li{
+    list-style: none;
+    cursor: pointer;
+}
+
+ul li span {
+    font-size: 1.11em;
+}
+
+.task {
+    width: 371px;
+    height: 29px;
+    background-color:hsl(100, 100%, 100%);
+    margin-left: -10px;
+    margin-bottom: 40px;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.task .rem-btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.11em;
+    border: none;
+    height: 30px;
+    width: 80px;
+    margin-left: 190px;
+    background-color: hsl(0, 0%, 85%);
+    border-radius: 4px;
+}
